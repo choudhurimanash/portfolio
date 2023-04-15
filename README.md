@@ -8,7 +8,7 @@
 
 ## ToDo:
 ~~Design About section~~
-- Design Edducation and Experience section
+- Design Edducation and Skills section
 - Design Blog section
 - Design Project section
 - Design footer
