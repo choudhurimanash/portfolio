@@ -8,6 +8,7 @@
 
 ## ToDo:
 ~~Design Navbar~~
+
 ~~Design About section~~
 - Design Edducation and Skills section
 - Design Blog section
