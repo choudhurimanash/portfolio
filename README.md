@@ -1,6 +1,6 @@
 # This is an portfolio webpage design
 
-~ToDo:
+##ToDo:
 1) Design About section
 2) Design Edducation and Experience section
 3) Design Blog section
