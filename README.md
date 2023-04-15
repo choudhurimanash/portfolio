@@ -1,4 +1,4 @@
-# This is an portfolio webpage design
+# PORTFOLIO WEBPAGE
 
 ## ToDo:
 1) Design About section
