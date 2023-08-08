@@ -10,7 +10,13 @@
 ~~Design Navbar~~
 
 ~~Design About section~~
-- Design Edducation and Skills section
-- Design Blog section
-- Design Project section
-- Design footer
+
+~~Design Edducation and Skills section~~
+
+~~Design Blog section~~
+
+~~Design Project section~~
+
+~~Design footer~~
+
+##You can go through the webpage link and review this portfolio.
